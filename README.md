@@ -2,6 +2,7 @@
 [![](https://img.shields.io/badge/python-3-brightgreen.svg)](https://www.python.org/downloads/)
 [![](https://img.shields.io/badge/scrapy-1.5-blue.svg)](https://scrapy.org/)
 ## 百科类网站爬虫
+ 此项目已经被整合于 [BaiduSpider](https://github.com/yuyijiong/BaiduSpider) 项目中，请勿直接使用本项目。
 
 ### 特性
 - 百科类网站全站词条抓取，包括百度百科、互动百科、wiki中英文站点；
